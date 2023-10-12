@@ -22,7 +22,7 @@ body {
   max-width: 670px;
   display: flex;
   flex-direction: column;
-  padding: 0 20px;
+  padding: 10px 20px;
   background-color: #EEF2F7;
   margin: 0 auto;
 }
