@@ -19,7 +19,7 @@ body {
 }
 
 .home_wrapper {
-  max-width: 670px;
+  max-width: 640px;
   display: flex;
   flex-direction: column;
   padding: 0px 20px;
